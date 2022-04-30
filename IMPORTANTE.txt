@@ -1,0 +1,5 @@
+VERSION de anaconda
+
+Anaconda3-2020.02-Windows-x86_64
+
+computer-vision-y-machine-learning-con-python/
